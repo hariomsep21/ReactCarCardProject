@@ -1,0 +1,20 @@
+.navbar_nav {
+  flex-direction: row;
+}
+
+.brand_Name {
+  padding-left: 10px;
+}
+
+.nav_item {
+  margin-left: 10px;
+}
+
+.navbar_right {
+  margin-left: auto;
+}
+
+.btn {
+  height: 40px;
+  width: 100px;
+}

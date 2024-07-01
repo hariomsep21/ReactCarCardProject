@@ -1,0 +1,45 @@
+/* body {
+  background-image: url('/image/cartoon.webp');
+} */
+
+.container {
+  margin-top: 50px;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.table {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.thead-dark th {
+  background-color: #343a40;
+  color: white;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-warning:hover {
+  background-color: #e0a800;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+}

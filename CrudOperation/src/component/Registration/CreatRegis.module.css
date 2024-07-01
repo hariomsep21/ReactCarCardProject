@@ -1,0 +1,28 @@
+.container {
+  margin-top: 50px;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.card-title {
+  margin-bottom: 30px;
+}
+
+.mainform .form-control {
+  border-radius: 5px;
+}
+
+.mainform .btn-primary {
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease;
+}
+
+.mainform .btn-primary:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,69 @@
+{
+  "userReg": [
+    {
+      "username": "hariomji",
+      "email": "harooo@pragimtech.com",
+      "password": "12345678",
+      "id": "ee28"
+    },
+    {
+      "username": "akash",
+      "email": "hariom2061999@gmail.com",
+      "password": "12345",
+      "id": "f2c0"
+    }
+  ],
+  "carCard":[
+    {
+      "id": 1,
+      "image": "https://picsum.photos/200/300",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/200/301",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 3,
+      "image": "https://picsum.photos/200/302",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 4,
+      "image": "https://picsum.photos/200/303",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 5,
+      "image": "https://picsum.photos/200/304",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 6,
+      "image": "https://picsum.photos/200/305",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 7,
+      "image": "https://picsum.photos/200/306",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 8,
+      "image": "https://picsum.photos/200/307",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 9,
+      "image": "https://picsum.photos/200/308",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 10,
+      "image": "https://picsum.photos/200/309",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+  ]
+  
+}
